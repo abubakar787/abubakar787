@@ -1,181 +1,165 @@
 
-<!-- ================= PROFILE HEADER ================= -->
+<!-- ===================== PROFILE BANNER ===================== -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=220&section=header&text=Mohammad%20Abubakar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Android%20App%20Developer&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Mohammad Abubakar - Developer Profile Banner"
-  />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohammad Abubakar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Mohammad%20Abubakar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Android%20Developer&descAlignY=55&descSize=17" width="100%" alt="Mohammad Abubakar profile banner" />
 
-<h3 align="center">
-  Aspiring Full-Stack Developer | Android App Developer
-</h3>
+<h1>Hi 👋, I'm Mohammad Abubakar</h1>
 
-<p align="center">
-  I build projects, solve problems, and keep learning every day.
-</p>
+<h3>Aspiring Full-Stack Web Developer | Android App Developer</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/abubakar787">
-    <img src="https://img.shields.io/badge/GitHub-abubakar787-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-abubakar-a559511b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:infoabubakar786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abubakar787&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Mohammad Abubakar**, a developer from Bangladesh interested in building modern web applications and Android apps.
+I'm a passionate developer working toward becoming a professional Full-Stack Web Developer. I enjoy learning new technologies, solving problems, and building practical applications.
 
-I'm currently pursuing Full-Stack Web Development through the **Programming Hero** course, strengthening my skills through hands-on practice and projects.
-
-- 🌱 Learning Full-Stack Web Development.
-- 💻 Exploring React, Next.js, JavaScript, and TypeScript.
-- ⚙️ Learning backend development with Node.js and APIs.
-- 🗄️ Exploring MongoDB and database fundamentals.
-- 📱 Interested in Android application development using Java.
-- 🚀 Familiar with Google Play Console and Android app publishing workflows.
-- 🎯 Working toward becoming a skilled, job-ready developer.
-- 🤝 Open to collaboration, feedback, and learning opportunities.
+- 🎓 Currently learning Full-Stack Web Development through Programming Hero.
+- 💻 Practicing frontend development and learning backend technologies.
+- 📱 Have a background in Android application development.
+- 🌱 Exploring React, Next.js, Node.js, Express.js, and MongoDB.
+- 🛠️ Interested in building useful web applications and software products.
+- 🎯 Goal: Become a skilled Full-Stack Developer and build real-world projects.
+- 🤝 Open to learning, collaboration, and junior developer opportunities.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend Development & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express and MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies"/>
 </p>
 
 ### 📱 Android Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Android Studio and Java" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio" alt="Android development tools"/>
 </p>
 
 ### 🔧 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development tools"/>
 </p>
 
 ---
 
-## 📚 What I'm Learning
+## 📚 My Learning Journey
 
-| Area | Current Focus |
+| Technology | Focus |
 |---|---|
-| Frontend | React, Next.js, TypeScript |
-| UI Development | Responsive layouts, Tailwind CSS |
-| Backend | Node.js, Express, REST APIs |
-| Database | MongoDB, CRUD operations |
-| Version Control | Git and GitHub |
-| Android | Java, Android Studio, app publishing |
+| HTML5 & CSS3 | Semantic HTML, responsive layouts, Flexbox and Grid |
+| JavaScript | Fundamentals, ES6+, arrays, objects and asynchronous code |
+| TypeScript | Types, interfaces and safer JavaScript |
+| React | Components, props, state, hooks and reusable UI |
+| Next.js | App Router, layouts, routing and data fetching |
+| Tailwind CSS | Responsive and modern UI development |
+| Node.js & Express.js | Backend fundamentals and REST APIs |
+| MongoDB | Database design and CRUD operations |
+| Git & GitHub | Version control, repositories and collaboration |
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🛒 Bazar Dor
+### 🏋️ FitLog — Workout Planner
 
-A web development project created as part of my practical learning journey.
+A fitness-related web development project completed as part of my Programming Hero assignment journey.
 
-<p align="center">
-  <a href="https://assignment-7-bazar-dor-abubakar.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Bazar Dor Live Website" />
-  </a>
-  <a href="https://github.com/abubakar787/assignment-7-bazar-dor-abubakar">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-181717?style=for-the-badge&logo=github" alt="View Bazar Dor Source Code" />
-  </a>
-</p>
+- **Live Demo:** [Explore FitLog](https://assignment-6-fitlog-abubakar.vercel.app/)
+- **Type:** Programming Hero Assignment 6
+- **Focus:** Practical web development and fitness-focused UI.
 
-**Project highlights**
-- A practical web development project.
-- Deployed live using Vercel.
-- Built as part of my ongoing development journey.
+### 🛒 Bazar Dor — Web Application
 
----
+A web development project built as part of my practical learning journey.
 
-## 📱 Android Development & Google Play Console
+- **Live Demo:** [Explore Bazar Dor](https://assignment-7-bazar-dor-abubakar.vercel.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/abubakar787/assignment-7-bazar-dor-abubakar)
+- **Focus:** Building and deploying a web application.
 
-Alongside web development, I have an interest in Android applications and app publishing.
-
-- 📲 Android application development and related workflows.
-- ☕ Java and Android Studio.
-- 🎮 Familiarity with Google Play Console.
-- 🚀 Interested in publishing and maintaining Android applications.
+> More projects will be added as I continue learning and building.
 
 ---
 
-## 📈 My Developer Goals
+## 📱 Android Development Experience
 
-- Build more complete frontend and full-stack projects.
-- Improve my understanding of APIs, databases, and authentication.
-- Write cleaner, more maintainable code.
-- Develop practical applications for real users.
-- Prepare for junior developer opportunities and professional collaboration.
+I also have a background in Android application development, including working with Java and Android Studio.
+
+- Android app development practice.
+- Android UI implementation.
+- Working with app navigation and application features.
+- Experience with Google Play Console workflows.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Goals
 
-<p align="center">
+- Strengthen my JavaScript and TypeScript fundamentals.
+- Build responsive interfaces with React and Next.js.
+- Learn backend development with Node.js and Express.js.
+- Connect applications to MongoDB databases.
+- Build complete full-stack projects with REST APIs.
+- Improve problem-solving, debugging, and clean-code practices.
+- Build a strong portfolio for junior developer opportunities.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://github.com/abubakar787">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammad-abubakar-a559511b8/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:infoabubakar786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
 </p>
 
-<p align="center">
-  📍 Bangladesh
-</p>
+📧 **Email:** infoabubakar786@gmail.com
 
-<p align="center">
-  📧 <a href="mailto:infoabubakar786@gmail.com">infoabubakar786@gmail.com</a>
-</p>
+💻 **GitHub:** [github.com/abubakar787](https://github.com/abubakar787)
 
-<p align="center">
-  💼 Open to learning opportunities and junior developer roles.
-</p>
+🔗 **LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/mohammad-abubakar-a559511b8/)
 
 ---
 
-<p align="center">
-  <b>“Keep Learning. Keep Building. Keep Growing.” 🚀</b>
-</p>
+<div align="center">
 
-<p align="center">
-  Thank you for visiting my GitHub profile!
-</p>
+### 💡 "Learn every day. Build consistently. Improve continuously."
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=110&section=footer"
-    width="100%"
-    alt="Profile Footer"
-  />
-</p>
+*Thank you for visiting my GitHub profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" width="100%" alt="Profile footer banner"/>
+
+</div>
